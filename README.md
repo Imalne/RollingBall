@@ -1,11 +1,5 @@
 # 综合实验文档
 
-
-
-## 目录
-
-[TOC]
-
 ## 小程序体验版二维码
 
 <img src="https://github.com/Imalne/RollingBall/blob/master/README/img/qrcode.jpg" width="200px"/> 
